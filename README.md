@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maulaf
+- 👋 Hi, I’m Fetty Athiyatul Maula
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning automation testing with Katalon
 - 📫 How to reach me via email at : fetty.maula98@gmail.com
