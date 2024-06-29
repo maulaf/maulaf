@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Fetty Athiyatul Maula
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning automation testing with Katalon
+- 👩‍💻 Currently working as QA Engineer
+- 🔧 I have around 3 years of experience in software testing
+- 🌱 Always keen to learn more about testing
 - 📫 How to reach me via email at : fetty.maula98@gmail.com
 
 <!---
